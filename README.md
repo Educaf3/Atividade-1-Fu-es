@@ -1,1 +1,2 @@
-# Atividade-1-Fu-es
+Atividade de Funções.
+feito por Eduardo Magalhães Escobar Guerreiro
